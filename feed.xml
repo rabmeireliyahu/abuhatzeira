@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב רפאל אבוחצירא</title>
-    <description>שיעורי תורה - הרב רפאל אבוחצירא - אוצר התורה</description>
+    <description>שיעורי תורה, אמונה וחסידות מפי הרב מאיר אבוחצירא שליט"א. פרשת שבוע, מועדי ישראל, מוסר וחיזוק מבית מוסדות "תורה לשמה" אשדוד - אוצר התורה.</description>
+    <itunes:summary>שיעורי תורה, אמונה וחסידות מפי הרב מאיר אבוחצירא שליט"א. פרשת שבוע, מועדי ישראל, מוסר וחיזוק מבית מוסדות "תורה לשמה" אשדוד - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/abuhatzeira</link>
     <language>he</language>
     <itunes:author>הרב רפאל אבוחצירא</itunes:author>
