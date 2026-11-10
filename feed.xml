@@ -1489,5 +1489,14 @@
       <itunes:duration>00:13:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>כשאתה תדע לתת - אז אתה תקבל!!</title>
+      <description>כשאתה תדע לתת - אז אתה תקבל!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-abuhatzeira-shiurim/%D7%9B%D7%A9%D7%90%D7%AA%D7%94%20%D7%AA%D7%93%D7%A2%20%D7%9C%D7%AA%D7%AA%20-%20%D7%90%D7%96%20%D7%90%D7%AA%D7%94%20%D7%AA%D7%A7%D7%91%D7%9C%21%21.mp3" length="5300901" type="audio/mpeg"/>
+      <guid isPermaLink="false">כשאתה תדע לתת - אז אתה תקבל!!.mp3</guid>
+      <pubDate>Tue, 10 Nov 2026 05:13:26 -0000</pubDate>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
